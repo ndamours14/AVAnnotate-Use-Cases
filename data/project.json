@@ -1,21 +1,27 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "ndamours14",
+    "is_private": false,
+    "title": "AVAnnotate Use Case Recipe Book",
+    "description": "A collection of use cases for AVAnnotate.",
+    "language": "en",
+    "slug": "AVAnnotate-Use-Cases",
+    "creator": "ndamours14",
+    "authors": "Natasha D'Amours and Sean Luyk",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2025-08-11T20:22:04.763Z",
+    "updated_at": "2025-08-11T20:22:04.763Z"
   }
 }
