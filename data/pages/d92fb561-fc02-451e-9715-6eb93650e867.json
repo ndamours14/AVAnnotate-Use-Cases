@@ -1,0 +1,170 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "User Story:",
+          "bold": true
+        },
+        {
+          "text": " As a new AVAnnotate user, I want to learn and understand the features of AVAnnotate so that I can build my own AVAnnotate projects. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Description:",
+          "bold": true
+        },
+        {
+          "text": " This Documentation Project is an excellent introduction to AVAnnotate’s features, explaining how and why AVAnnotate can be used. It demonstrates both how projects are constructed (Documentation) and how projects can be effectively presented to an audience (Narrative). "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Ingredients:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "numbered-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "The Monster Mash - Documentation Project"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "1 or more audio or audiovisual recordings"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Annotations"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Tags "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Method:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "numbered-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Read the Documentation and Narrative sections on each page of the Documentation Project in order to learn about AVAnnotate’s features"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Using your own audio or audiovisual records, annotations, and tags, you can create your own AVAnnotate project using the information gleaned from the Documentation Project "
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Example:",
+          "bold": true
+        },
+        {
+          "text": "\n"
+        },
+        {
+          "type": "link",
+          "url": "https://avannotate.github.io/mm/",
+          "children": [
+            {
+              "text": "The Monster Mash - Documentation Project"
+            }
+          ]
+        },
+        {
+          "text": " by AVAnnotate Team (this project was shared on the AVAnnotate GitHub discussion board by Tanya Clement - will seek permission from Tanya to share more widely if included on a public use case website)\n\n"
+        }
+      ]
+    }
+  ],
+  "title": "Use Case 00000: Introductory Example Project",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "use-case-00000-introductory-example-project",
+  "created_at": "2025-08-11T20:24:37.840Z",
+  "created_by": "ndamours14",
+  "updated_at": "2025-08-11T20:24:37.840Z",
+  "updated_by": "ndamours14"
+}
