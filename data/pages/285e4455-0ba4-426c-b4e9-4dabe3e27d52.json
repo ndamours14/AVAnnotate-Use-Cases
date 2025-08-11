@@ -138,7 +138,7 @@
           "type": "list-item",
           "children": [
             {
-              "text": "Create and add tags to annotations, if desired, following Quick Start guide "
+              "text": "Create and add tags to annotations, if desired, following Quick Start guide  "
             }
           ]
         }
@@ -148,8 +148,17 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Example:",
+          "text": " ",
           "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "Example:"
         },
         {
           "text": "\n"
@@ -178,6 +187,6 @@
   "slug": "use-case-00003-comparison-of-two-audiovisual",
   "created_at": "2025-08-11T20:40:34.598Z",
   "created_by": "ndamours14",
-  "updated_at": "2025-08-11T20:40:34.598Z",
+  "updated_at": "2025-08-11T20:46:36.715Z",
   "updated_by": "ndamours14"
 }
