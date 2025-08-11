@@ -1,0 +1,183 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "User story: ",
+          "bold": true
+        },
+        {
+          "text": "As a filmmaker I want to add supplementary information to my film so that I can share context and additional information with my audience. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Description: ",
+          "bold": true
+        },
+        {
+          "text": "Annotations that provide context, background, or other supplementary information can be added to an audiovisual file in order to share additional information with viewers. Relevant fields include Filmmaking, Film Studies, Social Studies, Geography, and Natural Sciences. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Ingredients: ",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "numbered-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "1 or more video clips"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Annotations"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Tags (optional) "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Method: ",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "numbered-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Collect supplementary information about the video clip, with associated timestamps for each piece of information"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Upload video clip(s) to AVAnnotate and add supplementary information as annotations, following "
+            },
+            {
+              "type": "link",
+              "url": "https://av-annotate.org/how-to-use/",
+              "children": [
+                {
+                  "text": "Quick Start: How to use AVAnnotate"
+                }
+              ]
+            },
+            {
+              "text": " guide"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Create and add tags to annotations, if desired, following Quick Start guide "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Example: ",
+          "bold": true
+        },
+        {
+          "text": "\n"
+        },
+        {
+          "type": "link",
+          "url": "https://ndamours14.github.io/uvic-in-360-new/events/annotation-of-uvic-in-360/",
+          "children": [
+            {
+              "text": "Annotation of UVic in 360"
+            }
+          ]
+        },
+        {
+          "text": " by Natasha D’Amours\n"
+        }
+      ]
+    }
+  ],
+  "title": "Use Case 00004: Adding Supplementary Information to an Audiovisual File",
+  "parent": "453d0d15-379a-45f9-bf78-8b6e0c33e037",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "use-case-00004-adding-supplementary-informat",
+  "created_at": "2025-08-11T20:41:43.462Z",
+  "created_by": "ndamours14",
+  "updated_at": "2025-08-11T20:41:43.462Z",
+  "updated_by": "ndamours14"
+}
