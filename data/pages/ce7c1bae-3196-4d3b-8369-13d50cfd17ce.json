@@ -1,0 +1,191 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "User story: ",
+          "bold": true
+        },
+        {
+          "text": "As a marine ecology researcher I want to highlight notable moments in my undersea research videos so that I can share my research with a wider audience. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Description: ",
+          "bold": true
+        },
+        {
+          "text": "Annotations can be added to videos recorded for research purposes, in order to add context or to highlight data points. Relevant fields include Natural Sciences, Medicine, and both Quantitative and Qualitative Studies. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Ingredients: ",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "numbered-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "1 or more research video clips"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Annotations"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Tags (optional) "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Method: ",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "numbered-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Gather contextual information and/or data from research video clips, with associated timestamps for each piece of information"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Upload video clip(s) to AVAnnotate and add contextual information and data as annotations, following "
+            },
+            {
+              "type": "link",
+              "url": "https://av-annotate.org/how-to-use/",
+              "children": [
+                {
+                  "text": "Quick Start: How to use AVAnnotate"
+                }
+              ]
+            },
+            {
+              "text": " guide"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Create and add tags to annotations, if desired, following Quick Start guide "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Example: ",
+          "bold": true
+        },
+        {
+          "text": "\n"
+        },
+        {
+          "type": "link",
+          "url": "https://ndamours14.github.io/hecate-sponge/events/r2002-conway-imaging-2017-dive-20-2-3-4-5/",
+          "children": [
+            {
+              "text": "Hecate Strait Sponge Reef Dives Annotations"
+            }
+          ]
+        },
+        {
+          "text": " by Natasha D’Amours\n"
+        }
+      ]
+    }
+  ],
+  "title": "Use Case 00005: Annotating Research Videos",
+  "parent": "453d0d15-379a-45f9-bf78-8b6e0c33e037",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "use-case-00005-annotating-research-videos",
+  "created_at": "2025-08-11T20:42:41.405Z",
+  "created_by": "ndamours14",
+  "updated_at": "2025-08-11T20:42:41.405Z",
+  "updated_by": "ndamours14"
+}
