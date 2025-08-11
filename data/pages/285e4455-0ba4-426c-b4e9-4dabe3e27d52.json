@@ -1,0 +1,183 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "User story: ",
+          "bold": true
+        },
+        {
+          "text": "As a film studies student I want to compare two instances of a film clip so that I can show two methods of analyzing the same clip. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Description:",
+          "bold": true
+        },
+        {
+          "text": " Two or more audiovisual files can be played side-by-side, each with their own unique annotations, in order to compare and contrast the two files. Two instances of the same file can also be compared with unique annotations. Relevant fields include English, Film Studies, and Music and Sound Studies. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Ingredients: ",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "numbered-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "1 or more video clips"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Comparative annotations"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Tags (optional) "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Method: ",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "numbered-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Perform comparative analysis of one video clip (comparing two methods of analysis) or two video clips (comparing two clips), and make notes with associated timestamps"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Upload video clip(s) to AVAnnotate and add annotations, following "
+            },
+            {
+              "type": "link",
+              "url": "https://av-annotate.org/how-to-use/",
+              "children": [
+                {
+                  "text": "Quick Start: How to use AVAnnotate"
+                }
+              ]
+            },
+            {
+              "text": " guide (create either two instances of the same clip with different annotations, or one instance of each clip with associated annotations)"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Create and add tags to annotations, if desired, following Quick Start guide "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Example:",
+          "bold": true
+        },
+        {
+          "text": "\n"
+        },
+        {
+          "type": "link",
+          "url": "https://lgsump.github.io/shoes-comparison/comparison#",
+          "children": [
+            {
+              "text": "Comparison Screen for Shoes"
+            }
+          ]
+        },
+        {
+          "text": " by Luke Sumpter and Zoe Bursztajn-Illingworth\n"
+        }
+      ]
+    }
+  ],
+  "title": "Use Case 00003: Comparison of Two Audiovisual Files",
+  "parent": "453d0d15-379a-45f9-bf78-8b6e0c33e037",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "use-case-00003-comparison-of-two-audiovisual",
+  "created_at": "2025-08-11T20:40:34.598Z",
+  "created_by": "ndamours14",
+  "updated_at": "2025-08-11T20:40:34.598Z",
+  "updated_by": "ndamours14"
+}
