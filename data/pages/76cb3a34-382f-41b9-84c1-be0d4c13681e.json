@@ -1,0 +1,199 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "User story: ",
+          "bold": true
+        },
+        {
+          "text": "As a language and cultural studies researcher, I want to transcribe and translate radio broadcasts so that I can share my research in an accessible format. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Description:",
+          "bold": true
+        },
+        {
+          "text": " Transcripts of audio broadcasts, as well as translated transcripts, can be added to audio recordings as annotations, improving accessibility of audio content across languages. Relevant fields include Social Studies, Language and Cultural Studies, History, Radio and Sound Studies, and Radio and Podcast Production.  "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Ingredients:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "numbered-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "1 or more audio recordings"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Transcripts of audio recording(s)"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Translations of audio recording(s)"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Tags (optional) "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Method:",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "numbered-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Generate transcripts and translation of audio recording(s) if they do not already exist, making note of associated timestamps"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Upload audio recording(s) to AVAnnotate and add transcripts and translations as annotations, following "
+            },
+            {
+              "type": "link",
+              "url": "https://av-annotate.org/how-to-use/",
+              "children": [
+                {
+                  "text": "Quick Start: How to use AVAnnotate"
+                }
+              ]
+            },
+            {
+              "text": " guide"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Create and add tags to annotations, if desired, following Quick Start guide "
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Example: ",
+          "bold": true
+        },
+        {
+          "text": "\n"
+        },
+        {
+          "type": "link",
+          "url": "https://avannotate.github.io/radio-venceremos/",
+          "children": [
+            {
+              "text": "Radio Venceremos"
+            }
+          ]
+        },
+        {
+          "text": " by Vera P. Estrada Burrows and Jack Riordan\n"
+        }
+      ]
+    }
+  ],
+  "title": "Use Case 00002: Transcription and Translation of Radio and Podcasts",
+  "parent": "453d0d15-379a-45f9-bf78-8b6e0c33e037",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "use-case-00002-transcription-and-translation",
+  "created_at": "2025-08-11T20:37:53.114Z",
+  "created_by": "ndamours14",
+  "updated_at": "2025-08-11T20:37:53.114Z",
+  "updated_by": "ndamours14"
+}
