@@ -1,0 +1,260 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "What is AVAnnotate?",
+          "bold": true,
+          "textSize": "heading-two"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "block-quote",
+      "children": [
+        {
+          "text": "“AVAnnotate makes audio and video artifacts easily discoverable."
+        }
+      ]
+    },
+    {
+      "type": "block-quote",
+      "children": [
+        {
+          "text": "Created by Dr. Tanya Clement, Brumfield Labs, and Performant Software Solutions, AVAnnotate is a free and open source workflow and application for sharing annotations of audio and video artifacts and making digital exhibits and editions with AV materials."
+        }
+      ]
+    },
+    {
+      "type": "block-quote",
+      "children": [
+        {
+          "text": "Leveraging "
+        },
+        {
+          "type": "link",
+          "url": "https://iiif.io/",
+          "children": [
+            {
+              "text": "IIIF"
+            }
+          ]
+        },
+        {
+          "text": " and "
+        },
+        {
+          "type": "link",
+          "url": "https://github.com/",
+          "children": [
+            {
+              "text": "GitHub"
+            }
+          ]
+        },
+        {
+          "text": " for sharing curated annotations of audiovisual materials held at libraries, archives, and museums, AVAnnotate allows users to combine metadata for online audio and video assets with user-generated annotations and contextual essays to create simple, playable web-based editions and exhibits.”"
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "Quote from the "
+                },
+                {
+                  "type": "link",
+                  "url": "https://av-annotate.org/about/",
+                  "children": [
+                    {
+                      "text": "AVAnnotate Website"
+                    }
+                  ]
+                },
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "How do I use AVAnnotate?",
+          "textSize": "heading-two"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The AVAnnotate website provides a helpful "
+        },
+        {
+          "type": "link",
+          "url": "https://av-annotate.org/how-to-use/",
+          "children": [
+            {
+              "text": "Quick Start"
+            }
+          ]
+        },
+        {
+          "text": " guide. This guide is a solid starting point for both beginners and experienced GitHub users."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The "
+        },
+        {
+          "type": "link",
+          "url": "https://avannotate.github.io/documentation/",
+          "children": [
+            {
+              "text": "AVAnnotate Documentation"
+            }
+          ]
+        },
+        {
+          "text": " provides more in-depth resources and information."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "The "
+        },
+        {
+          "type": "link",
+          "url": "https://github.com/orgs/AVAnnotate/discussions/",
+          "children": [
+            {
+              "text": "AVAnotate Discussions Board"
+            }
+          ]
+        },
+        {
+          "text": " provides a place to discuss AVAnnotate with other users, to share issues and bugs, and to view and share projects created with AVAnnotate."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "What is the AVAnnotate Use Case Recipe Book?",
+          "textSize": "heading-two"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "AVAnnotate is a powerful tool that can be used for many purposes, across many fields of study. Much like a culinary recipe book, the Use Case Recipe Book aims to provide users with an informative and inspiring list of potential uses for AVAnnotate, with helpful lists of “ingredients” (required elements), simple to-do steps, and example projects. This recipe book is not an exhaustive list of all of AVAnnotate’s uses; instead, it aims to inspire. The recipes on this website can be followed precisely, or used as a jumping-off point for your own AV projects. Browse [link to browse] the list of recipes, or search [link to search] for a specific type of project or field of research."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "If you have any questions or comments about the recipe book, or you would like to contribute your own recipes, please contact [contact]."
+        }
+      ]
+    }
+  ],
+  "title": "Introduction to the AVAnnotate Use Case Recipe Book",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "introduction-to-the-avannotate-use-case-recip",
+  "created_at": "2025-09-16T16:54:55.717Z",
+  "created_by": "ndamours14",
+  "updated_at": "2025-09-16T16:54:55.717Z",
+  "updated_by": "ndamours14"
+}
