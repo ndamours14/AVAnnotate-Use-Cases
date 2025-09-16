@@ -4,8 +4,16 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "What is AVAnnotate?",
-          "textSize": "heading-two"
+          "text": "\n \n\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "heading-two",
+          "text": "What is AVAnnotate?"
         }
       ]
     },
@@ -58,7 +66,7 @@
       "type": "block-quote",
       "children": [
         {
-          "text": ""
+          "text": "\n \n\n"
         }
       ]
     },
@@ -103,7 +111,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
+          "text": " "
         }
       ]
     },
@@ -241,7 +249,7 @@
   "slug": "introduction-to-the-avannotate-use-case-recip",
   "created_at": "2025-09-16T16:54:55.717Z",
   "created_by": "ndamours14",
-  "updated_at": "2025-09-16T16:58:17.265Z",
+  "updated_at": "2025-09-16T17:00:33.334Z",
   "updated_by": "ndamours14",
   "parent": "453d0d15-379a-45f9-bf78-8b6e0c33e037"
 }
