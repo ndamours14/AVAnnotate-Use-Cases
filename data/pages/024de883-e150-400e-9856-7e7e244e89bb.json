@@ -5,7 +5,6 @@
       "children": [
         {
           "text": "What is AVAnnotate?",
-          "bold": true,
           "textSize": "heading-two"
         }
       ]
@@ -22,77 +21,64 @@
       "type": "block-quote",
       "children": [
         {
-          "text": "“AVAnnotate makes audio and video artifacts easily discoverable."
-        }
-      ]
-    },
-    {
-      "type": "block-quote",
-      "children": [
-        {
-          "text": "Created by Dr. Tanya Clement, Brumfield Labs, and Performant Software Solutions, AVAnnotate is a free and open source workflow and application for sharing annotations of audio and video artifacts and making digital exhibits and editions with AV materials."
-        }
-      ]
-    },
-    {
-      "type": "block-quote",
-      "children": [
-        {
-          "text": "Leveraging "
+          "text": "“AVAnnotate makes audio and video artifacts easily discoverable. Created by Dr. Tanya Clement, Brumfield Labs, and Performant Software Solutions, AVAnnotate is a free and open source workflow and application for sharing annotations of audio and video artifacts and making digital exhibits and editions with AV materials. Leveraging ",
+          "italic": true
         },
         {
           "type": "link",
           "url": "https://iiif.io/",
           "children": [
             {
-              "text": "IIIF"
+              "text": "IIIF",
+              "italic": true
             }
           ]
         },
         {
-          "text": " and "
+          "text": " and ",
+          "italic": true
         },
         {
           "type": "link",
           "url": "https://github.com/",
           "children": [
             {
-              "text": "GitHub"
+              "text": "GitHub",
+              "italic": true
             }
           ]
         },
         {
-          "text": " for sharing curated annotations of audiovisual materials held at libraries, archives, and museums, AVAnnotate allows users to combine metadata for online audio and video assets with user-generated annotations and contextual essays to create simple, playable web-based editions and exhibits.”"
+          "text": " for sharing curated annotations of audiovisual materials held at libraries, archives, and museums, AVAnnotate allows users to combine metadata for online audio and video assets with user-generated annotations and contextual essays to create simple, playable web-based editions and exhibits.”",
+          "italic": true
         }
       ]
     },
     {
-      "type": "bulleted-list",
+      "type": "block-quote",
       "children": [
         {
-          "type": "list-item",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "block-quote",
+      "children": [
+        {
+          "text": "Quote from the "
+        },
+        {
+          "type": "link",
+          "url": "https://av-annotate.org/about/",
           "children": [
             {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "Quote from the "
-                },
-                {
-                  "type": "link",
-                  "url": "https://av-annotate.org/about/",
-                  "children": [
-                    {
-                      "text": "AVAnnotate Website"
-                    }
-                  ]
-                },
-                {
-                  "text": ""
-                }
-              ]
+              "text": "AVAnnotate Website"
             }
           ]
+        },
+        {
+          "text": ""
         }
       ]
     },
@@ -255,7 +241,7 @@
   "slug": "introduction-to-the-avannotate-use-case-recip",
   "created_at": "2025-09-16T16:54:55.717Z",
   "created_by": "ndamours14",
-  "updated_at": "2025-09-16T16:55:05.879Z",
+  "updated_at": "2025-09-16T16:58:17.265Z",
   "updated_by": "ndamours14",
   "parent": "453d0d15-379a-45f9-bf78-8b6e0c33e037"
 }
